@@ -1,4 +1,4 @@
-#Assembly Intro: Logic, Circuits, and Memory
+# Assembly Intro: Logic, Circuits, and Memory
 
 This first file will touch on the basic hardware model of a computer (as far as simple programs are concerned), the basics of electric circuits and logic gates, and the basics of logic itself. 
 
@@ -25,7 +25,7 @@ Let's step back to the beginning for a second.
 
 ---
 
-Think of the rules we live by. Not the rules that say we should always be nice to one another, or should always eat our vegetables, or shouldn't steal from people, but the rules by which reality works such as the most fundamental of all: a thing is itself. 
+Think of the rules we live by. Not the rules that say we should always be nice to one another, or should always eat our vegetables, or shouldn't steal from people, but the rules by which reality works such as the most fundamental of all: **a thing is itself**. 
 
 The [Law of Identity](https://en.wikipedia.org/wiki/Law_of_identity) is the most basic and pervasive rule of all existence. **A thing is itself.** In our universe, and in any number of other dimensions, this rule cannot possibly *not* hold true. To say otherwise leads to fantastical absurdity and absolute insanity.
 
